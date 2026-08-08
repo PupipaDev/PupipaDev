@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cat-banner.svg" width="100%" alt="Four animated orange tabby cats" />
+  <img src="./assets/cat-banner.svg?v=c67c12c" width="100%" alt="Four animated pixel cats" />
 </p>
 
 ## 👋 About
